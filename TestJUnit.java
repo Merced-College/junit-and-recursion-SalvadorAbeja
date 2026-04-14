@@ -8,7 +8,6 @@
         assertEquals(1, TestingRecursion.countHi("xxhixx"));
     }
 
-
     @Test
     public void testCountHi_2(){
         assertEquals(2, TestingRecursion.countHi("xxhixhix"));
